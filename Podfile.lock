@@ -1,0 +1,16 @@
+PODS:
+  - StringScore (0.0.1)
+
+DEPENDENCIES:
+  - StringScore
+
+SPEC REPOS:
+  trunk:
+    - StringScore
+
+SPEC CHECKSUMS:
+  StringScore: 9430d7d8dba2d87c281e975975bcc6051620e5b6
+
+PODFILE CHECKSUM: 5dc7dd256b638dd6cc79179da7a3c902da1978fb
+
+COCOAPODS: 1.14.3

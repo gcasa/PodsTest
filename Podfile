@@ -1,0 +1,2 @@
+target 'PodsTest'
+pod 'StringScore'
